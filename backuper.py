@@ -105,10 +105,10 @@ def main():
     delete_files(all_files)
 
     # Hochladen der ZIP-Dateien auf den FTP-Server
-    ftp_server = "34.170.52.106"
-    username = "powerpaul_test"
-    password = "qkHcfLPcKX7!"
-    target_folder = "/private"  # Zielpfad auf dem FTP-Server
+    ftp_server = "IP/URL"
+    username = "Benutzer"
+    password = "Password"
+    target_folder = "/wo_auch_immer"  # Zielpfad auf dem FTP-Server
     upload_zip_files(
         [zip_filename], password_filename, ftp_server, username, password, target_folder
     )
